@@ -37,6 +37,7 @@ body {
     color: #fff;
     margin: auto;
     margin-top: calc(50vh - 280px);
+    cursor: pointer;
 }
 
 a {
